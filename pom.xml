@@ -42,7 +42,7 @@
     </licenses>
 
     <properties>
-        <eclipse-milo-version>0.1.0</eclipse-milo-version>
+        <eclipse-milo-version>0.6.8</eclipse-milo-version>
         <apache-camel-version>2.17.0</apache-camel-version>
         <apache-camel-plugin-version>2.17.3</apache-camel-plugin-version>
         <slf4j-version>1.7.0</slf4j-version>
